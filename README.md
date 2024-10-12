@@ -1,2 +1,14 @@
 # VAE-Fashion-MNIST
-Este repositório contém um modelo de Variational Autoencoder (VAE) implementado em Python utilizando TensorFlow/Keras para gerar novas imagens de roupas a partir do dataset Fashion MNIST. O objetivo é explorar a capacidade dos VAEs de criar designs de moda originais.
+
+**Descrição:**
+
+Este repositório contém um notebook Jupyter (Demo_Variational_Autoencoders.ipynb) que demonstra a implementação de um Variational Autoencoder (VAE) aplicado ao dataset Fashion MNIST. O objetivo é gerar novas imagens de roupas utilizando técnicas de aprendizado profundo dentro do contexto de IA Generativa, sendo uma demonstração de um caso de uso clássico do Keras.
+
+**Conteúdo:**
+
+* **Demo_Variational_Autoencoders.ipynb:** Notebook principal com o código completo, desde a carga dos dados até a geração de novas imagens.
+
+**Pré-requisitos:**
+
+* Python (versão recomendada: [inserir versão])
+* Bibliotecas: TensorFlow/Keras, NumPy, Matplotlib
