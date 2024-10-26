@@ -10,5 +10,5 @@ Este repositório contém um notebook Jupyter (Demo_Variational_Autoencoders.ipy
 
 **Pré-requisitos:**
 
-* Python (versão recomendada: [inserir versão])
+* Python
 * Bibliotecas: TensorFlow/Keras, NumPy, Matplotlib
